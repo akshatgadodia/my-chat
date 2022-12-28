@@ -2,7 +2,7 @@
 ## My chat app is just a regular real time chat app. You can register on the app and create public and private rooms to chat in
 
 # Project Demonstration Video
-## https://www.youtube.com/watch?v=Qu78xXZHwR8
+## https://www.youtube.com/watch?v=3L0w2vtApNE&feature=youtu.be
 
 # Run App on Local Machine
 ## cd into backend and do "npm run server"
